@@ -1,2 +1,2 @@
 # AP-Calc-BC
-code out AP Calc BC
+Python code to solve calculus problems.
